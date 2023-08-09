@@ -36,7 +36,7 @@ int main() {
     *       It is a runtime entity that is created based on the 
     *       definition provided by the class. Each object has its own set 
     *       of attributes, which represent the state of the object, and methods, 
-    *       which define the actions that the object can perform., on the other hand,
+    *       which define the actions that the object can perform.
     */
    S1.Name = "Sourav Mondal";
    S1.Department = "CSE";
